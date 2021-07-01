@@ -1,0 +1,1 @@
+export const BYTEUS_URL = 'http://byteus.me:8000'
